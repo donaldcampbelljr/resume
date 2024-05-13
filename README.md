@@ -1,6 +1,6 @@
 # Donald Campbell, MSc
 
-_Location: Denver, CO_ 	
+_Location: Denver, CO_ <br>	
 [LinkedIn](https://www.linkedin.com/in/donaldrcampbell) / [Github](https://github.com/donaldcampbelljr) / [Twitter](https://twitter.com/ScienceDonald)
 
 ### Summary
@@ -8,13 +8,13 @@ Open source software developer with a focus on software engineering in Python an
 
 ### Skills
 - **Languages:** Python, Rust, C/C++, SQL, Caché, MUMPS
-- **Technology:** SQLModel, SQLAlchemy, Pydantic, MATLAB, JMP, Minitab, Github
+- **Technology:** SQLModel, SQLAlchemy, Pydantic, MATLAB, JMP, Minitab, GitHub
 - **Data Analytics:** Statistical Analysis, Machine Learning, LLM for Bioinformatics
 - **Leadership:** Small Business Founder, Strategic Planning & Execution, Technical Project Management
 - **Biomedical Engineering:** R&D in Medical Devices, Bioinformatics, Biomaterials
 
 ### Education
-- MS in Biomedical Engineering, _Case Western University_
+- MS in Biomedical Engineering, _Case Western Reserve University_
 - BSE in Biomedical Engineering, _Tulane University_
 
 #### Relevant Coursework
