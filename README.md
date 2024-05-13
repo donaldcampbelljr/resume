@@ -23,8 +23,8 @@ Machine Learning and Applied Statistics, Advanced MATLAB Programming, Systems an
 ### Relevant Experience
 #### Software Engineer II @ University of Virginia _(2023 - Present)_
 - Open source development of bioinformatics tools.
-  - Pipestat: https://github.com/pepkit/pipestat 
-  - Looper: https://github.com/pepkit/looper 
+  - Pipestat: [https://github.com/pepkit/pipestat](https://github.com/pepkit/pipestat) 
+  - Looper: [https://github.com/pepkit/looper](https://github.com/pepkit/looper) 
 - Migrating open source lab tools from C++ to Rust.
 
 #### Lead Research Scientist @ Terumo BCT  _(2021 - 2023)_
@@ -47,6 +47,6 @@ Machine Learning and Applied Statistics, Advanced MATLAB Programming, Systems an
 - Technical services engineer at Epic, Software Debugging, Caché programming.
 
 ### Fun Software Projects
-- **pyCaptainsLog** - procedurally generated text-adventure, leveraging GPT for world building: https://github.com/donaldcampbelljr/pyCaptainsLog 
-- **rsISS** - an ISS tracker written in Rust: https://github.com/donaldcampbelljr/rsISS 
+- **pyCaptainsLog** - procedurally generated text-adventure, leveraging GPT for world building: [https://github.com/donaldcampbelljr/pyCaptainsLog](https://github.com/donaldcampbelljr/pyCaptainsLog)
+- **rsISS** - an ISS tracker written in Rust: [https://github.com/donaldcampbelljr/rsISS](https://github.com/donaldcampbelljr/rsISS) 
 
